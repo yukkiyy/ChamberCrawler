@@ -1,0 +1,43 @@
+|-----------------------------------------------------------------------------|
+|                                                                             |
+|                                                                             |
+|   ||+   ||+  ||||||+  ||+   ||+    ||+    ||+  ||||||+  |||+   ||+ ||+      |
+|   +||+ ||++ ||+---||+ |||   |||    |||    ||| ||+---||+ ||||+  ||| |||      |
+|    +||||++  |||   ||| |||   |||    ||| |+ ||| |||   ||| ||+||+ ||| |||      |
+|     +||++   |||   ||| |||   |||    ||||||+||| |||   ||| |||+||+||| +-+      |
+|      |||    +||||||+++ ||||||++    +|||+|||++ +||||||++ ||| +||||| ||+      |
+|      +-+     +-----    +-----+      +--++--+   +-----+  +-+  +---+ +-+      |
+|                                                                             |
+|                                                                             |
+|                           THANK YOU FOR PLAYING!                            |
+|                                                                             |
+|                                                                             |
+|                                GAME SUMMARY                                 |
+|                                                                             |
+|     YOU SCORE:                                                              |
+|                                     11                                      |
+|                                                                             |
+|     MESSAGE FOR YOU:                                                        |
+|                       You are such a master! AMAZING!                       |
+|                                                                             |
+|     OPTIONS:                                                                |
+|                        Press "r" to restart the game                        |
+|                     Press any other key to exit the game                    |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                          CREATED BY: MINGYU & KAREN & YUKKI |
+|---------------------------------------------------------------------------- |
+
+0-3
+
+You need to improve your gaming talent :)
+
+4-9
+
+WELL DONE! You can do even better next time.
+
+11+
+
+You are such a master! AMAZING!
+

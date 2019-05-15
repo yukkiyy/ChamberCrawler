@@ -1,0 +1,32 @@
+|-----------------------------------------------------------------------------|
+|                                                                             |
+|                                                                             | 
+|                   ||||||+  ||||||+ ||||||+  ||+  ||+                        |
+|                  ||+----+ ||+----+ +----||+ ||| ||++   |||                  |
+|                  |||      |||       |||||++ |||||++  |||||||+               |
+|                  |||      |||       +---||+ ||+-||+    |||                  |
+|                  +||||||++ ||||||+ ||||||++ |||  ||+   +-+                  |
+|                   +-----+  +-----+ +-----+  +-+  +-+                        |
+|                                                                             |
+|                        Enter "r" to restart the game                        |
+|                    Enter "q" to exit the game at any time                   |
+|                                                                             |
+|     <no, so, ea, we, ne, nw, se, sw>: move in the direction                 |
+|     u<direction>: use potion in the direction                               |
+|     a<direction>: attack enemy in the direction                             |
+|                                                                             |
+|                                                                             |
+|                      Please choose a Player Character                       |
+|                                                                             |
+|    h: Human  (140 HP 20 Atk 20 Def - 150% score)                            |
+|    d: Dwarf  (100 HP 20 Atk 30 Def - 200% gold)                             |
+|    e: Elves  (140 HP 30 Atk 10 Def - all potions positive)                  |
+|    o: Orc    (180 HP 30 Atk 25 Def - 50% gold)                              |
+|    m: Mingyu (200 HP 35 Atk 30 Def - HP restored at gold pickup)            |
+|    ?: ???    (??? HP ?? Atk ?? Def)                                         |
+|                                                                             |
+|    KEYNOTE: TRY "?" AND STAY TUNED FOR AMAZING SURPRISES!                   |
+|                                                                             |
+|                                                                             |
+|                                          CREATED BY: MINGYU & KAREN & YUKKI |
+|-----------------------------------------------------------------------------|

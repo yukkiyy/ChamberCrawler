@@ -1,0 +1,8 @@
+#ifndef _GAMESTATE_H_
+#define _GAMESTATE_H_
+
+enum class GameState {
+    START, START_COMMANDLINE, START_CURSOR, START_GRAPHICS, INGAME, WON, LOST
+};
+
+#endif

@@ -1,0 +1,30 @@
+|-----------------------------------------------------------------------------|
+|                                                                             |
+|                   ||||||+  ||||||+ ||||||+  ||+  ||+                        |
+|                  ||+----+ ||+----+ +----||+ ||| ||++   |||                  |
+|                  |||      |||       |||||++ |||||++  |||||||+               |
+|                  |||      |||       +---||+ ||+-||+    |||                  |
+|                  +||||||++ ||||||+ ||||||++ |||  ||+   +-+                  |
+|                   +-----+  +-----+ +-----+  +-+  +-+                        |
+|                                                                             |
+|                        Press "r" to restart the game                        |
+|                    Press "q" to exit the game at any time                   |
+|                                                                             |
+|        wasd: north west south east        13zc: nw ne sw se                 |
+|        j + <direction>: attack enemy      k + <direction>: use potion       |
+|                                                                             |
+|                                                                             |
+|                      Please choose a Player Character                       |
+|                                                                             |
+|    h: Human  (140 HP 20 Atk 20 Def - 150% score)                            |
+|    d: Dwarf  (100 HP 20 Atk 30 Def - 200% gold)                             |
+|    e: Elves  (140 HP 30 Atk 10 Def - all potions positive)                  |
+|    o: Orc    (180 HP 30 Atk 25 Def - 50% gold)                              |
+|    m: Mingyu (200 HP 35 Atk 30 Def - HP restored at gold pickup)            |
+|    ?: ???    (??? HP ?? Atk ?? Def)                                         |
+|                                                                             |
+|    KEYNOTE: TRY "?" AND STAY TUNED FOR AMAZING SURPRISE!                    |
+|                                                                             |
+|                                                                             |
+|                                          CREATED BY: MINGYU & KAREN & YUKKI |
+|-----------------------------------------------------------------------------|
